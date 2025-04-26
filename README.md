@@ -9,8 +9,8 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/d1rshan?label=Follow&style=social)](https://github.com/d1rshan)
-[![Gmail Badge](https://img.shields.io/badge/-darshan@example.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:darshan@example.com)](mailto:darshan.paccha@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@d1rshan-blue?style=social&logo=Instagram)](https://www.instagram.com/d1rshaan)
+[![Gmail Badge](https://img.shields.io/badge/-darshan.paccha@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:darshan@example.com)](mailto:darshan.paccha@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@d1rshaan-blue?style=social&logo=Instagram)](https://www.instagram.com/d1rshaan)
 
 </div>
 
